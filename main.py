@@ -13,6 +13,7 @@ for i in range(question):
     print(f"{num} is an odd number")
     odd_count = odd_count + 1
 
+#This outputs how many even numbers and how many odd numbers you've inputted
 print(f"You entered {even_count} even number(s)")
 print(f"You entered {odd_count} odd number(s)")
 
